@@ -3,3 +3,6 @@ Es una herramienta que nos sirve para poder instalar diferentes versiones del in
 
 ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
 La diferencia es que el intérprete ruby muestra directactamente "Hello World", mientras que el intérprete interactivo copia las lineas de código del fichero y los ejecuta.
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
+con el pry se puede hacer pruebas de un programa sin tener que modificar su código.
